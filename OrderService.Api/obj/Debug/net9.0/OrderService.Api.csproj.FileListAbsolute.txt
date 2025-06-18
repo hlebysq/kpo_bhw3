@@ -162,3 +162,4 @@ C:\Users\Gleb\RiderProjects\OrderPaymentSystem\OrderService.Api\obj\Debug\net9.0
 C:\Users\Gleb\RiderProjects\OrderPaymentSystem\OrderService.Api\obj\Debug\net9.0\OrderService.Api.pdb
 C:\Users\Gleb\RiderProjects\OrderPaymentSystem\OrderService.Api\obj\Debug\net9.0\OrderService.Api.genruntimeconfig.cache
 C:\Users\Gleb\RiderProjects\OrderPaymentSystem\OrderService.Api\obj\Debug\net9.0\ref\OrderService.Api.dll
+C:\Users\Gleb\RiderProjects\OrderPaymentSystem\OrderService.Api\obj\Debug\net9.0\OrderService.Api.sourcelink.json

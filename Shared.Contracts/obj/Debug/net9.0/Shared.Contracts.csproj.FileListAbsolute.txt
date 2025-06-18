@@ -9,3 +9,4 @@ C:\Users\Gleb\RiderProjects\OrderPaymentSystem\Shared.Contracts\obj\Debug\net9.0
 C:\Users\Gleb\RiderProjects\OrderPaymentSystem\Shared.Contracts\obj\Debug\net9.0\refint\Shared.Contracts.dll
 C:\Users\Gleb\RiderProjects\OrderPaymentSystem\Shared.Contracts\obj\Debug\net9.0\Shared.Contracts.pdb
 C:\Users\Gleb\RiderProjects\OrderPaymentSystem\Shared.Contracts\obj\Debug\net9.0\ref\Shared.Contracts.dll
+C:\Users\Gleb\RiderProjects\OrderPaymentSystem\Shared.Contracts\obj\Debug\net9.0\Shared.Contracts.sourcelink.json
